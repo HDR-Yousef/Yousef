@@ -1,2 +1,1 @@
-•	yousef-isolierung-white-bg.html
-	•	logo.jpeg
+index.html
